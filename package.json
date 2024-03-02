@@ -1,0 +1,21 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "TP2 gestio des routes et accès DB",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hafsamhand/TPCloud.git"
+  },
+  "keywords": [
+    "tp2"
+  ],
+  "author": "hafsa mhand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
